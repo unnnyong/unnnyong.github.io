@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[GitHub : unnnyong](https://www.github.com/unnnyong)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+일본에서 iOS 엔지니어로 일하고 있습니다. 음악, 맛있는 것들을 아주아주 좋아합니다.😇
 
 
-[jekyll-organization]: https://github.com/jekyll
+P社のmサービスのiOSエンジニアとして働いています。
+音楽、美味しい物とお酒を大好きです！💚
+
+unnnyong@gmail.com
+@unnnyong
