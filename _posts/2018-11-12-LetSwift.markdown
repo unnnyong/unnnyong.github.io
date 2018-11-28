@@ -21,7 +21,7 @@ LINEを作った **NAVER**, kakao talkの**kakao**で大きいカンファレン
 
 LetSwiftは毎年秋に開催されます。今年は11月6日火曜日、ガンナム駅近くの科学技術会館でした。
 
-去年までは日本で[ReactorKit]()で有名な[@devxoul]()さんと[@younatics]()が開催しました**Swift Korea Meetup**もありましたが、今年はLetSwiftと一緒に開催することになりましてLetSwiftが韓国唯一のiOSカンファレンスになりました。
+去年までは日本で[ReactorKit](https://github.com/ReactorKit/ReactorKit)で有名な[@devxoul](https://github.com/devxoul)さんと[@younatics](https://github.com/younatics)が開催しました**Swift Korea Meetup**もありましたが、今年はLetSwiftと一緒に開催することになりましてLetSwiftが韓国唯一のiOSカンファレンスになりました。
 
 前回までは発表セッションだけでしたが、今年はワークショップセッションが同時に進行しました。
 
