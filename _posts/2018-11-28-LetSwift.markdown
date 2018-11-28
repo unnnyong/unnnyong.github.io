@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "韓国のiOSカンファレンス：LetSwift"
-date:   2018-11-12 00:10:54 +0900
+date:   2018-11-28 00:10:54 +0900
 categories: iOS
 ---
 
