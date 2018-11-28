@@ -25,7 +25,7 @@ LetSwiftは毎年秋に開催されます。今年は11月6日火曜日、ガン
 
 前回までは発表セッションだけでしたが、今年はワークショップセッションが同時に進行しました。
 
-![](../_photos/2018-11-12-LetSwift/1.png)
+![](https://user-images.githubusercontent.com/28520053/49155697-fbb1a980-f35e-11e8-8605-1bd27fc02352.png)
 
 それをためにチケットも２種類に販売しました。チケット名は今回発売されたiPhone名を参考しました。
 
@@ -81,9 +81,9 @@ Swiftなら当たり前にオレンジのイメージがありましして今年
 
 0|コンセプト
 ---|---
-1|![](../_photos/2018-11-12-LetSwift/3.png)
-2|![](../_photos/2018-11-12-LetSwift/4.png)
-3|![](../_photos/2018-11-12-LetSwift/5.png)
+1|![](https://user-images.githubusercontent.com/28520053/49155701-ff453080-f35e-11e8-9fd0-73a1d6a45384.png)
+2|![](https://user-images.githubusercontent.com/28520053/49155704-01a78a80-f35f-11e8-8e6e-cb6098717d6a.png)
+3|![](https://user-images.githubusercontent.com/28520053/49155708-03714e00-f35f-11e8-97d9-d0c7b322304c.png)
 
 ２番に決められました。👏👏
 
@@ -92,7 +92,7 @@ Swiftなら当たり前にオレンジのイメージがありましして今年
 
 ピクセルがコンセプトでしたからスタップの写真もコンセプトに合わせて修正する必要がありました。グさん（撮影スタッフ）さんから「iOSカンファレンスですからiOS12からリリースされたミモジを使ってみたら？」ってめちゃくちゃ良いアイデアが！スタップの写真をミモジ＋ピクセル変換で作業したページが下のです。
 
-![](../_photos/2018-11-12-LetSwift/2.png)
+![](https://user-images.githubusercontent.com/28520053/49155700-fe140380-f35e-11e8-90b8-c2a9370646cf.png)
 
 （私は１行の一番右ですw）
 
