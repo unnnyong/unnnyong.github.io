@@ -41,8 +41,8 @@ Let'Ticket Maxは2分で完売されました。🤭ワークショップセッ�
 1||Key note|キム　ジョン
 2|ワークショップ|クリーンコードとコードレビュー|キム　ジョン
 3|ワークショップ|Debugging with Xcode, LLDB and Chisel|アン　ジョンミン
-4|ワークショップ|AI in iOS|イ　スんユン [@younatics]()
-5|ワークショップ|Let's TDD|ジョン　スヨル [@devxoul]()
+4|ワークショップ|AI in iOS|イ　スんユン [@younatics](https://github.com/younatics)
+5|ワークショップ|Let's TDD|ジョン　スヨル [@devxoul](https://github.com/devxoul)
 6|発表セッション|個人プロジェクトでアップストア１位攻略してみる|ノ　スジン
 7|発表セッション|iOS 💖Ruby|キム　ウニョン @unnnyong
 8|発表セッション|TDS (Toss Design System) v2の紹介|イ　タッギュ
