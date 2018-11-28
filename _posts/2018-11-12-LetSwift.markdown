@@ -21,7 +21,7 @@ LINEを作った **NAVER**, kakao talkの**kakao**で大きいカンファレン
 
 LetSwiftは毎年秋に開催されます。今年は11月6日火曜日、ガンナム駅近くの科学技術会館でした。
 
-去年までは日本で[ReactorKit](https://github.com/ReactorKit/ReactorKit)で有名な[@devxoul](https://github.com/devxoul)さんと[@younatics](https://github.com/younatics)が開催しました**Swift Korea Meetup**もありましたが、今年はLetSwiftと一緒に開催することになりましてLetSwiftが韓国唯一のiOSカンファレンスになりました。
+去年までは日本で[ReactorKit](https://github.com/ReactorKit/ReactorKit/)で有名な[@devxoul](https://github.com/devxoul)さんと[@younatics](https://github.com/younatics/)が開催しました**Swift Korea Meetup**もありましたが、今年はLetSwiftと一緒に開催することになりましてLetSwiftが韓国唯一のiOSカンファレンスになりました。
 
 前回までは発表セッションだけでしたが、今年はワークショップセッションが同時に進行しました。
 
@@ -41,8 +41,8 @@ Let'Ticket Maxは2分で完売されました。🤭ワークショップセッ�
 1||Key note|キム　ジョン
 2|ワークショップ|クリーンコードとコードレビュー|キム　ジョン
 3|ワークショップ|Debugging with Xcode, LLDB and Chisel|アン　ジョンミン
-4|ワークショップ|AI in iOS|イ　スんユン [@younatics](https://github.com/younatics)
-5|ワークショップ|Let's TDD|ジョン　スヨル [@devxoul](https://github.com/devxoul)
+4|ワークショップ|AI in iOS|イ　スんユン [@younatics](https://github.com/younatics/)
+5|ワークショップ|Let's TDD|ジョン　スヨル [@devxoul](https://github.com/devxoul/)
 6|発表セッション|個人プロジェクトでアップストア１位攻略してみる|ノ　スジン
 7|発表セッション|iOS 💖Ruby|キム　ウニョン @unnnyong
 8|発表セッション|TDS (Toss Design System) v2の紹介|イ　タッギュ
