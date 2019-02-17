@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "iOS | 🇰🇷 present vs push"
-date:   2018-11-28 00:10:54 +0900
+date:   2019-02-17 22:50:54 +0900
 categories: iOS
 ---
 # iOS | 🇰🇷 present vs push
