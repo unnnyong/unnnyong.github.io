@@ -16,8 +16,8 @@
 title: unnnyong
 email: unnnyong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  このブログのiOSエンジニアは美味しい物を好きです！
-  이 블로그 주인은 맛있는 것을 아주아주 좋아합니다.
+  P社でウニョンで呼ばれているキムと申します。
+  일본에서 iOS 개발을 하고 있습니다.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: unnnyong
