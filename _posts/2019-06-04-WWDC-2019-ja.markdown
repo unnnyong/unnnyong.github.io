@@ -5,7 +5,7 @@ date:   2019-06-04 07:00:55 +0900
 categories: iOS
 ---
 
-# iOS | 🇯🇵  WWDC 2019 Keynote まとめ
+# iOS | 🇯🇵  WWDC 2019 Keynote まとめ (更新中)
 
 今年もです！
 
