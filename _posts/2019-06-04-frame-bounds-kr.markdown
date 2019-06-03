@@ -7,16 +7,14 @@ categories: iOS
 
 # iOS | 🇰🇷 frame 과 bounds
 
-## 레이아웃
-
 1pt = 1px
 
-## 좌표 기준
+### 좌표 기준
 
 - UIKit : 왼쪽 위가 (0, 0)
 - Core Graphics : 왼쪽 아래가 (0, 0)
 
-## frame 과 bounds
+### frame 과 bounds
 
 #### `frame` (CGRect)
 
@@ -41,7 +39,7 @@ categories: iOS
     - `view.bounds.origin = (0, 0)`
     - `view.bounds.size = (50, 70)`
 
-## transform (CGAffinTransform)
+### 번외 - transform (CGAffinTransform)
 
 - 뷰의 Core Graphics에 대한 2차원 Affine 변환을 적용한다.
     - Affine 변환의 원점은 뷰의 center 이다.
