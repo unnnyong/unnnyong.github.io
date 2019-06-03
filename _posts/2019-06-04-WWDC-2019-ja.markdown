@@ -156,7 +156,48 @@ categories: iOS
 * 1.5TB
 * すみません！！！興味がなくてここまで書きます！気になるかたはアップルホームページの商品ページをご参考お願いします！！！！
 
-### MacOS
+### 新しい ディスプレー、Pro Display XDR
+* Retina 6k
+* Pro stand
+	* ディスプレーの角度の調整を滋養にできる
+	* Portrait mode に回転できる
+
+### MacOS、Catalina
+
+ 新しいOS名はCatalinaです。
+
+* Apple music
+* Podcast
+* Apple TV
+	* 4k HDR
+	* DOLBY
+* SideCar
+	* iPadをsecondディスプレーとして使える
+		* 連結してApple pencilも使える
+* Voice Control、音声認識がもっとも強くなりました
+	* 画面のボタンを数字に表示できてそれを音声で話したら音声だけでもPCを操作できます
+* Find my
+	* ネットワークが繋がってなくても探すことができる
+* Activation Lock
+	* 盗まれても何もできない！
+* リマインダーのRedesign
+* Project Catalyst
+* Xcode
+	* Macの開発用に必要ないろんなことが自動的にインストールされる
+		* マウスハンドリングなどなど
+	* iPhone, iPad, Macが全部開発できる！
+* 秋ぐらいにiPadアプリを使えるようになります
+* RealityKit
+	* ARKit
+	* 人を認識してMotion captureができる
+
+### Swift
+* 450,000のアプリに使われている
+* 💫SwiftUI💫
+	* Swiftの中でSwiftをために作られたものです
+	* IBの修正がコードにすぐ反映、更新される
+	* テストの時、直接修正と更新ができる
+	* こちらはぜひキーノート動画をみてください！！！
 
 
 ### 終わりに
