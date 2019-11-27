@@ -24,7 +24,9 @@ iOS의 Alamofire, AFNetworking 격인 라이브러리입니다.
 ## 개발환경
 
 🧰 **Android Studio** v3.5
+
 🖋 **Kotlin** v1.3.50
+
 📱minSdkVersion 21
 
 ## 사용할 API
@@ -32,7 +34,8 @@ iOS의 Alamofire, AFNetworking 격인 라이브러리입니다.
 https://swapi.co/
 
 스타워즈 API 를 사용하는 전제
-~키 등 인증을 신경쓰지않아도 되는 API 입니다~
+
+***키 등 인증을 신경쓰지않아도 되는 API 입니다***
 
 ## 실제로 사용해보기
 
@@ -64,11 +67,12 @@ dependencies {
 ### 2. Retrofit2을 사용해서 API 통신하기
 
 > 이번 글에서는 간단한 API를 **get** 만 해봅니다.
-> ~post 는 firebase 이외에 간단하게 해볼 수 있는 API 를 아시는 분 있으시면 꼭 알려주세요 !!! 🙇~
+>
+> ***post 는 firebase 이외에 간단하게 해볼 수 있는 API 를 아시는 분 있으시면 꼭 알려주세요 !!! 🙇***
 
 1. API 통신을 위해 모델 만들기.
 
-```kt
+```kotlin
 // People.kt
 
 data class People (
@@ -89,7 +93,7 @@ data class People (
 
 3. API 통신 코드 추가하기
 
-```kt
+```kotlin
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -130,13 +134,13 @@ interface PeopleService {
 }
 ```
 
-- ~`interface` 의 정의가 어떻게 바로 retrofit에서 컴파일이 되는건지는 아직 오리무중......... 😵~
+- ***`interface` 의 정의가 어떻게 바로 retrofit에서 컴파일이 되는건지는 아직 오리무중......... 😵***
 
 3. 통신이 되었는지 확인하기
 
     <img src="https://user-images.githubusercontent.com/28520053/69733712-205a8000-1171-11ea-8fdb-262d059567e9.png" alt="" width="200"/>
 
-    - 🎉
+    🎉
 
 ---
 
@@ -152,4 +156,4 @@ interface PeopleService {
 
 부족한 글 읽어주셔서 감사합니다.
 
-~👷 혹시 블로그 글에 대한 보충이나 피드백, 잘못된 내용이 있다면 ! 알려주세요 !~
+***👷 혹시 블로그 글에 대한 보충이나 피드백, 잘못된 내용이 있다면 ! 알려주세요 !***
