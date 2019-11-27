@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kotlin으로 개발하는 안드로이드 프로젝트에서 Retrofit2 사용해보기"
-date:   2019-08-25 21:49:21 +0900
+date:   2019-11-28 00:22:16 +0900
 categories: android
 ---
 
