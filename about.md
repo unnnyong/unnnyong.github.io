@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-[GitHub : unnnyong](https://www.github.com/unnnyong)
+<img src="https://user-images.githubusercontent.com/28520053/69734759-e4c0b580-1172-11ea-9240-c2c96e609443.png" alt="" width="200"/>
 
-일본에서 iOS 엔지니어로 일하고 있습니다. 프론트엔드에 관심이 많아용😇
+[GitHub : @unnnyong](https://www.github.com/unnnyong)
 
-P社のmサービスのiOSエンジニアとして働いています。
-プロントエンドの何かがやりたい一人です！
+일본에서 iOS 엔지니어로 일하고 있습니다.
 
-unnnyong@gmail.com
-@unnnyong
+東京でiOSエンジニアとして働いています。
+
+✉️ unnnyong@gmail.com
