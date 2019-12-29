@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019년 회고"
-date:   2019-12-22 13:11:08 +0900
+date:   2019-12-30 01:11:08 +0900
 categories: about me
 ---
 
