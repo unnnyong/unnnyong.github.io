@@ -116,8 +116,9 @@ clean을 반복하다보니 어느샌가 말끔히 사라졌다.
 
 #### 콩을 던지고 김밥을 먹자 !
 
-![image](https://user-images.githubusercontent.com/28520053/70819352-5e1a0280-1e19-11ea-826f-c50e53f7c0cb.png)
-![image](https://user-images.githubusercontent.com/28520053/70819373-6f630f00-1e19-11ea-877f-43bd66465c85.png)
+![image](https://user-images.githubusercontent.com/28520053/70819352-5e1a0280-1e19-11ea-826f-c50e53f7c0cb.png)|![image](https://user-images.githubusercontent.com/28520053/70819373-6f630f00-1e19-11ea-877f-43bd66465c85.png)
+---|---
+  |  
 
 
 일본에서는 절분에 악귀를 없애기 위해 도깨비 분장을 한 사람에게 콩을 던지고 노리마키(김밥)을 먹는다.
@@ -246,6 +247,7 @@ WWDC는 떨어졌어도 대신에 올해 운은 여기 다 썻다고 장담한�
 
 ![IMG_0421](https://user-images.githubusercontent.com/28520053/71558656-e561aa00-2a98-11ea-941a-398aeb4697d8.jpg)|![22B09469-8D32-4712-9DB2-8E89459EB91A](https://user-images.githubusercontent.com/28520053/71558618-bc411980-2a98-11ea-83ff-c61b7893bedc.JPG)
 ---|---
+  |  
 
 아이패드 2가 세상을 활보 하고 있던 2010년에 미국 동부와 캐나다 여행을 다녀오고, 엔지니어가 되고 서부가 너무 궁금해져서 11일 연휴의 골든위크 때 다녀왔다.
 
