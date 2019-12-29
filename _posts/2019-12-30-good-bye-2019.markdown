@@ -191,6 +191,7 @@ clean을 반복하다보니 어느샌가 말끔히 사라졌다.
 
 ![IMG_4578](https://user-images.githubusercontent.com/28520053/71558393-1db3b900-2a96-11ea-9294-27a94cd150a6.JPG)|![IMG_4611](https://user-images.githubusercontent.com/28520053/71558394-1e4c4f80-2a96-11ea-9103-e7c73a98c26c.JPG)
 ---|---
+  |  
 
 추울걸 각오하고 가서 그런가 사실 12월의 영하 14도 서울보다 안추웠다.......
 
@@ -227,6 +228,7 @@ https://www.youtube.com/channel/UCt6BR6aHIG5ywXhAjQ6nAlQ
 
 ![IMG_5124](https://user-images.githubusercontent.com/28520053/71558546-18f00480-2a98-11ea-8e30-d2373e840af6.jpg)|![IMG_5132](https://user-images.githubusercontent.com/28520053/71558547-19889b00-2a98-11ea-9fdf-7e813762a82a.JPG)
 ---|---
+  |  
 
 인생 목표 중 하나를 드디어 이뤄버렸다 !
 
@@ -335,6 +337,7 @@ DeNA, LINE, CyberAgent의 Recap 행사에 다녀왔다.
 
 ![IMG_1528](https://user-images.githubusercontent.com/28520053/71559022-974ea580-2a9c-11ea-9a4b-f3ece2821a94.JPG)|![IMG_1535](https://user-images.githubusercontent.com/28520053/71559023-974ea580-2a9c-11ea-947b-4cef5e9a3b3d.JPG)
 ---|---
+  |  
 
 https://love-swift.connpass.com/event/133211/
 
@@ -412,6 +415,7 @@ https://iosdc.jp/2019/
 
 ![IMG_0021](https://user-images.githubusercontent.com/28520053/71559226-0d540c00-2a9f-11ea-892a-b36ecd66c660.JPG)|![IMG_0025](https://user-images.githubusercontent.com/28520053/71559227-0d540c00-2a9f-11ea-802b-ce94ae1451c8.JPG)
 ---|---
+  |  
 
 규모와 스케일에 놀랐다.
 
@@ -437,6 +441,7 @@ WWDC 2019에서 다크모드도 발표되었기에 꼭 코드에 넣어보고 �
 
 ![E1E0F02B-362E-4D4E-9B18-AEFB53D2C270](https://user-images.githubusercontent.com/28520053/71559200-cebe5180-2a9e-11ea-950b-cb1cc7e0c7e1.JPG)|![IMG_0330](https://user-images.githubusercontent.com/28520053/71559201-cebe5180-2a9e-11ea-9a76-1a9197248b83.JPG)
 ---|---
+  |  
 
 나오시마를 가기 위해서 오카야마를 가고, 그리고 옆 동네 구라시키까지 다녀왔다.
 
@@ -483,6 +488,7 @@ https://tech.pepabo.com/2019/11/18/minne-develop-camp-2019/
 
 ![IMG_0878](https://user-images.githubusercontent.com/28520053/71558114-d37d0880-2a92-11ea-85a5-7650d7c2f71c.PNG)|![IMG_0881](https://user-images.githubusercontent.com/28520053/71558115-d37d0880-2a92-11ea-8717-2d3478cb9167.JPG)
 ---|---
+  |  
 
 http://letswift.kr/2019/
 
@@ -492,6 +498,7 @@ http://letswift.kr/2019/
 
 ![76B86108-C3D8-4B6F-9911-0813B9A99E16](https://user-images.githubusercontent.com/28520053/71559125-e517dd80-2a9d-11ea-9e33-a930b8bf33a9.JPG)|![IMG_0998](https://user-images.githubusercontent.com/28520053/71559127-e943fb00-2a9d-11ea-86a2-907d1e273a12.jpg)
 ---|---
+  |  
 
 히로시마풍 오코노미야키를 정말정말정말 좋아한다.
 
@@ -505,6 +512,7 @@ http://letswift.kr/2019/
 
 ![IMG_1251](https://user-images.githubusercontent.com/28520053/71558037-0672cc80-2a92-11ea-970c-4fb95f9c909f.JPG)|![IMG_1261](https://user-images.githubusercontent.com/28520053/71558072-623d5580-2a92-11ea-9fbe-bd5f8333e065.jpg)
 ---|---
+  |  
 
 생애 첫 애플스토어에 줄을 섰다.
 
@@ -617,6 +625,7 @@ iOS 13부터 UIActivityController 가 점점 쓰기 불편해지기도 했고, �
 
 ![](https://pbs.twimg.com/media/ELtll-9UUAATOk2?format=jpg&name=4096x4096)|![IMG_1713](https://user-images.githubusercontent.com/28520053/71558523-e80fcf80-2a97-11ea-9c67-55785bef8794.JPG)
 ---|---
+  |  
 
 구글은 정말로 엔지니어 커뮤니티 발달에 여러가지 기여를 해주는 참 좋은 회사다.
 
