@@ -18,7 +18,7 @@ email: unnnyong@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   🐢
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.unnnyong.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unnnyong.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: unnnyong
 github_username:  unnnyong
 
@@ -27,6 +27,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Keep the original blog and its posts together under /dev-blog.
+permalink: /dev-blog/:categories/:year/:month/:day/:title.html
+feed:
+  path: /dev-blog/feed.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

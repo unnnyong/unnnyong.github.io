@@ -1,0 +1,127 @@
+---
+layout: null
+---
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f3efe5">
+    <meta name="description" content="일상의 작은 순간을 더 오래 남기는 앱, 이런곡으로와 Pinpin을 만나보세요.">
+    <meta property="og:title" content="unnnyong — 작은 순간을 위한 앱">
+    <meta property="og:description" content="음악과 장소, 좋아하는 순간을 놓치지 않도록.">
+    <meta property="og:type" content="website">
+    <title>unnnyong — 작은 순간을 위한 앱</title>
+    <link rel="stylesheet" href="{{ '/assets/home.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#apps">앱 소개로 건너뛰기</a>
+
+    <header class="site-header">
+      <a class="wordmark" href="/" aria-label="unnnyong 홈">unnnyong<span>.</span></a>
+      <nav aria-label="주요 메뉴">
+        <a href="#apps">Apps</a>
+        <a href="{{ '/dev-blog/' | relative_url }}">Dev blog</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="intro-title">
+        <p class="kicker">INDEPENDENT iOS APPS · SEOUL / TOKYO</p>
+        <h1 id="intro-title">좋아하는 순간을<br><em>놓치지 않도록.</em></h1>
+        <div class="intro-bottom">
+          <p>음악 한 곡, 가고 싶은 장소 하나.<br>일상에서 발견한 마음을 오래 간직할 수 있는 앱을 만듭니다.</p>
+          <a class="round-link" href="#apps" aria-label="앱 둘러보기">
+            <span>두 개의 앱</span>
+            <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 5v14M6 13l6 6 6-6"/></svg>
+          </a>
+        </div>
+      </section>
+
+      <section class="apps" id="apps" aria-label="앱 소개">
+        <article class="app-panel app-panel--music">
+          <div class="panel-copy">
+            <div class="app-id">
+              <span class="app-icon music-icon" aria-hidden="true">
+                <svg viewBox="0 0 64 64"><path d="M25 43.5V18l25-5v25.5"/><circle cx="17" cy="45" r="8"/><circle cx="42" cy="40" r="8"/></svg>
+              </span>
+              <div><span>01</span><strong>이런곡으로</strong></div>
+            </div>
+            <p class="panel-kicker">A PLAYLIST FROM ONE LINE</p>
+            <h2>원하는 음악을<br><em>한 줄로.</em></h2>
+            <p class="description">듣고 싶은 장면과 기분을 적어 보세요. AI가 실제 곡을 확인하고 순서를 다듬어 Apple Music 플레이리스트로 정리합니다.</p>
+            <div class="panel-actions">
+              <a class="store-button" href="https://apps.apple.com/app/id6815923537" aria-label="App Store에서 이런곡으로 다운로드">
+                <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M17.05 12.54c-.02-2.52 2.06-3.75 2.16-3.81a4.62 4.62 0 0 0-3.64-1.97c-1.53-.16-3.02.92-3.8.92-.8 0-2.01-.9-3.31-.87a4.85 4.85 0 0 0-4.08 2.49c-1.77 3.06-.45 7.56 1.24 10.04.85 1.21 1.84 2.57 3.14 2.52 1.27-.05 1.74-.81 3.27-.81 1.51 0 1.95.81 3.28.78 1.37-.02 2.23-1.22 3.05-2.44a10.02 10.02 0 0 0 1.4-2.85 4.37 4.37 0 0 1-2.71-4zM14.57 5.14A4.46 4.46 0 0 0 15.6 1.9a4.54 4.54 0 0 0-2.95 1.54 4.25 4.25 0 0 0-1.06 3.11 3.75 3.75 0 0 0 2.98-1.41z"/></svg>
+                <span><small>Download on the</small>App Store</span>
+              </a>
+              <a class="detail-link" href="{{ '/unnnyong.plist.io/' | relative_url }}">더 알아보기 <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+
+          <div class="music-visual" aria-hidden="true">
+            <div class="request-card">
+              <span class="card-label">오늘의 리퀘스트</span>
+              <p>“비 오는 밤,<br>창가에서 조용히<br>듣고 싶은 곡”</p>
+              <div class="card-rule"></div>
+              <div class="card-meta"><span>균형 있게</span><span>약 45분</span></div>
+            </div>
+            <span class="sound-line sound-line--one"></span>
+            <span class="sound-line sound-line--two"></span>
+          </div>
+        </article>
+
+        <article class="app-panel app-panel--places">
+          <div class="places-visual" aria-hidden="true">
+            <div class="orbit orbit--outer"></div>
+            <div class="orbit orbit--inner"></div>
+            <div class="pin pin--seoul"><span>Seoul</span></div>
+            <div class="pin pin--tokyo"><span>Tokyo</span></div>
+            <div class="pin pin--paris"><span>Paris</span></div>
+            <div class="pinpin-mark">
+              <svg viewBox="0 0 64 64"><path d="M32 6c-12.2 0-22 9.6-22 21.4C10 43.8 32 58 32 58s22-14.2 22-30.6C54 15.6 44.2 6 32 6z"/><path class="heart" d="M32 39.5 21.8 29.4a6.3 6.3 0 0 1 8.9-8.9L32 22l1.3-1.5a6.3 6.3 0 0 1 8.9 8.9z"/></svg>
+            </div>
+          </div>
+
+          <div class="panel-copy">
+            <div class="app-id">
+              <span class="app-icon pin-icon" aria-hidden="true">
+                <svg viewBox="0 0 64 64"><path d="M32 6c-12.2 0-22 9.6-22 21.4C10 43.8 32 58 32 58s22-14.2 22-30.6C54 15.6 44.2 6 32 6z"/><path class="heart" d="M32 39.5 21.8 29.4a6.3 6.3 0 0 1 8.9-8.9L32 22l1.3-1.5a6.3 6.3 0 0 1 8.9 8.9z"/></svg>
+              </span>
+              <div><span>02</span><strong>Pinpin</strong></div>
+            </div>
+            <p class="panel-kicker">PLACES, PINNED.</p>
+            <h2>발견한 장소를<br><em>잊지 않도록.</em></h2>
+            <p class="description">Instagram 게시물과 Reel 속 장소를 찾아 저장하고, 가고 싶은 순간 국내외 지도 앱으로 바로 열어보세요.</p>
+            <div class="panel-actions">
+              <a class="store-button" href="https://apps.apple.com/app/id6815517639" aria-label="App Store에서 Pinpin 다운로드">
+                <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M17.05 12.54c-.02-2.52 2.06-3.75 2.16-3.81a4.62 4.62 0 0 0-3.64-1.97c-1.53-.16-3.02.92-3.8.92-.8 0-2.01-.9-3.31-.87a4.85 4.85 0 0 0-4.08 2.49c-1.77 3.06-.45 7.56 1.24 10.04.85 1.21 1.84 2.57 3.14 2.52 1.27-.05 1.74-.81 3.27-.81 1.51 0 1.95.81 3.28.78 1.37-.02 2.23-1.22 3.05-2.44a10.02 10.02 0 0 0 1.4-2.85 4.37 4.37 0 0 1-2.71-4zM14.57 5.14A4.46 4.46 0 0 0 15.6 1.9a4.54 4.54 0 0 0-2.95 1.54 4.25 4.25 0 0 0-1.06 3.11 3.75 3.75 0 0 0 2.98-1.41z"/></svg>
+                <span><small>Download on the</small>App Store</span>
+              </a>
+              <a class="detail-link" href="{{ '/unnnyong.pinpin.io/' | relative_url }}">더 알아보기 <span aria-hidden="true">↗</span></a>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="maker" aria-labelledby="maker-title">
+        <p class="kicker">MADE BY UNNNYONG</p>
+        <h2 id="maker-title">쓰고 싶은 것을,<br>직접 만듭니다.</h2>
+        <div>
+          <p>일본에서 일하는 iOS 엔지니어가<br>천천히, 오래 쓸 수 있는 앱을 만들고 있습니다.</p>
+          <a href="{{ '/dev-blog/' | relative_url }}">개발 기록 읽기 <span aria-hidden="true">→</span></a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="wordmark" href="/">unnnyong<span>.</span></a>
+      <div class="footer-links">
+        <a href="{{ '/unnnyong.plist.io/plist/privacy.html' | relative_url }}">이런곡으로 지원·개인정보</a>
+        <a href="{{ '/unnnyong.pinpin.io/privacy/' | relative_url }}">Pinpin 개인정보</a>
+        <a href="mailto:unnnyong@icloud.com">Contact</a>
+      </div>
+      <p>© 2026 unnnyong. Built for small, memorable moments.</p>
+    </footer>
+  </body>
+</html>
